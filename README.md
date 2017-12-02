@@ -25,4 +25,4 @@ A simple JavaScript extension that injects a given product SKU and size into you
 - If you want me to add anything then dm me on [Twitter](https://twitter.com/shaw_xyz) or [Discord](http://m.uploadedit.com/bbtc/1512229870757.txt).
 
 # Tutorial
-- Figure 1a.1 = ![Figure 1a.1](https://image.prntscr.com/image/K7V642GmT_ioLLz5i9wUMg.png "Figure 1a.1")
+- Figure 1a.1 ![Figure 1a.1](https://image.prntscr.com/image/K7V642GmT_ioLLz5i9wUMg.png "Figure 1a.1")
